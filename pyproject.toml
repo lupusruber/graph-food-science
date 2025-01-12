@@ -7,5 +7,10 @@ requires-python = ">=3.10"
 dependencies = [
     "ipykernel>=6.29.5",
     "networkx>=3.4.2",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
     "torch>=2.5.1",
+    "torch-geometric>=2.6.1",
+    "transformers>=4.48.0",
+    "xlrd>=2.0.1",
 ]
